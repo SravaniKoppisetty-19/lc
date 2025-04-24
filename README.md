@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SravaniKoppisetty-19/lc/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/SravaniKoppisetty-19/lc/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SravaniKoppisetty-19/lc/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +61,12 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SravaniKoppisetty-19/lc/tree/master/0150-evaluate-reverse-polish-notation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
