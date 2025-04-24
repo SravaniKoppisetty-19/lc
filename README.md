@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/SravaniKoppisetty-19/lc/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/SravaniKoppisetty-19/lc/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
