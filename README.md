@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SravaniKoppisetty-19/lc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SravaniKoppisetty-19/lc/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/SravaniKoppisetty-19/lc/tree/master/1791-richest-customer-wealth) |
@@ -36,6 +37,7 @@
 | [0141-linked-list-cycle](https://github.com/SravaniKoppisetty-19/lc/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SravaniKoppisetty-19/lc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,4 +110,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1603-running-sum-of-1d-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
