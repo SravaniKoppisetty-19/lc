@@ -79,6 +79,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SravaniKoppisetty-19/lc/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Divide and Conquer
 |  |
@@ -96,6 +97,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0094-binary-tree-inorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0783-search-in-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/SravaniKoppisetty-19/lc/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -105,6 +107,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0094-binary-tree-inorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0783-search-in-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/SravaniKoppisetty-19/lc/tree/master/2384-root-equals-sum-of-children) |
 ## Matrix
@@ -119,4 +122,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
