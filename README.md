@@ -24,6 +24,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/SravaniKoppisetty-19/lc/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/3226-minimum-number-game) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3778-transform-array-by-parity](https://github.com/SravaniKoppisetty-19/lc/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -36,6 +37,7 @@
 | [0141-linked-list-cycle](https://github.com/SravaniKoppisetty-19/lc/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SravaniKoppisetty-19/lc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/SravaniKoppisetty-19/lc/tree/master/0908-middle-of-the-linked-list) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3226-minimum-number-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/3226-minimum-number-game) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/SravaniKoppisetty-19/lc/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
