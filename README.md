@@ -66,6 +66,7 @@
 | [0013-roman-to-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/0013-roman-to-integer) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3194-find-words-containing-character](https://github.com/SravaniKoppisetty-19/lc/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/3379-score-of-a-string) |
 ## Linked List
 |  |
 | ------- |
