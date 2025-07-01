@@ -67,6 +67,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3194-find-words-containing-character](https://github.com/SravaniKoppisetty-19/lc/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/3379-score-of-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3617-find-the-original-typed-string-i) |
 ## Linked List
 |  |
 | ------- |
