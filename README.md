@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/0013-roman-to-integer) |
+| [0742-to-lower-case](https://github.com/SravaniKoppisetty-19/lc/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/SravaniKoppisetty-19/lc/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/SravaniKoppisetty-19/lc/tree/master/1205-defanging-an-ip-address) |
