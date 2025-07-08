@@ -1,10 +1,17 @@
 int differenceOfSums(int n, int m) {
-    int i=1,sum=0,sum1;
-    while(m*i<=n){
-        sum+=(m*i);
-        i++;
+    
+    int num1 = 0,num2 =0;
+    for(int i=1;i<=n;i++)
+    {
+        if(i% m != 0)
+        {
+           num1+=i;
+        }
+        if(i%m == 0)
+        {
+            num2+=i;
+        }
     }
-    sum1=n*(n+1)/2;
-int r=sum1-sum;
-return r-sum;
+    int result = num1 - num2;
+    return result;
 }
