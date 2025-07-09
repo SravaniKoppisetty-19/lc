@@ -22,6 +22,7 @@
 | [2048-build-array-from-permutation](https://github.com/SravaniKoppisetty-19/lc/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2058-concatenation-of-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -57,6 +58,7 @@
 | [0782-jewels-and-stones](https://github.com/SravaniKoppisetty-19/lc/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/1635-number-of-good-pairs) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/1635-number-of-good-pairs) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3778-transform-array-by-parity](https://github.com/SravaniKoppisetty-19/lc/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
