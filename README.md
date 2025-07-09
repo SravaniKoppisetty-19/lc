@@ -24,6 +24,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/SravaniKoppisetty-19/lc/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -42,6 +43,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/SravaniKoppisetty-19/lc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/SravaniKoppisetty-19/lc/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/SravaniKoppisetty-19/lc/tree/master/2128-reverse-prefix-of-word) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -111,6 +113,7 @@
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/SravaniKoppisetty-19/lc/tree/master/3778-transform-array-by-parity) |
@@ -168,6 +171,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/SravaniKoppisetty-19/lc/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SravaniKoppisetty-19/lc/tree/master/0975-range-sum-of-bst) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Tree
 |  |
 | ------- |
