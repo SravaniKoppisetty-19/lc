@@ -37,6 +37,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/SravaniKoppisetty-19/lc/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SravaniKoppisetty-19/lc/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SravaniKoppisetty-19/lc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/SravaniKoppisetty-19/lc/tree/master/0908-middle-of-the-linked-list) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/SravaniKoppisetty-19/lc/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/SravaniKoppisetty-19/lc/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/SravaniKoppisetty-19/lc/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
