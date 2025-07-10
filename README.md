@@ -21,6 +21,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SravaniKoppisetty-19/lc/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/SravaniKoppisetty-19/lc/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2058-concatenation-of-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -121,6 +122,7 @@
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -235,4 +238,8 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
+## Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
