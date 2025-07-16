@@ -141,6 +141,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SravaniKoppisetty-19/lc/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -185,6 +186,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/SravaniKoppisetty-19/lc/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SravaniKoppisetty-19/lc/tree/master/0975-range-sum-of-bst) |
@@ -192,6 +194,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/SravaniKoppisetty-19/lc/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SravaniKoppisetty-19/lc/tree/master/0975-range-sum-of-bst) |
@@ -205,6 +208,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/SravaniKoppisetty-19/lc/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SravaniKoppisetty-19/lc/tree/master/0975-range-sum-of-bst) |
