@@ -30,6 +30,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2714-left-and-right-sum-differences](https://github.com/SravaniKoppisetty-19/lc/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/SravaniKoppisetty-19/lc/tree/master/2756-buy-two-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -236,6 +237,7 @@
 | [1833-find-the-highest-altitude](https://github.com/SravaniKoppisetty-19/lc/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SravaniKoppisetty-19/lc/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2571-find-the-pivot-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/2571-find-the-pivot-integer) |
+| [2714-left-and-right-sum-differences](https://github.com/SravaniKoppisetty-19/lc/tree/master/2714-left-and-right-sum-differences) |
 ## Counting Sort
 |  |
 | ------- |
