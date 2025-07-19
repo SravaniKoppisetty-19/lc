@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SravaniKoppisetty-19/lc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
+| [1319-unique-number-of-occurrences](https://github.com/SravaniKoppisetty-19/lc/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SravaniKoppisetty-19/lc/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -67,6 +68,7 @@
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/SravaniKoppisetty-19/lc/tree/master/0782-jewels-and-stones) |
+| [1319-unique-number-of-occurrences](https://github.com/SravaniKoppisetty-19/lc/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
