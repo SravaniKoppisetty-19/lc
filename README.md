@@ -18,6 +18,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/1635-number-of-good-pairs) |
+| [1656-count-good-triplets](https://github.com/SravaniKoppisetty-19/lc/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/SravaniKoppisetty-19/lc/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/SravaniKoppisetty-19/lc/tree/master/1833-find-the-highest-altitude) |
@@ -268,6 +269,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/SravaniKoppisetty-19/lc/tree/master/1656-count-good-triplets) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Number Theory
