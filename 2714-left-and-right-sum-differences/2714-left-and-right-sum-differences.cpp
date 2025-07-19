@@ -7,17 +7,14 @@ public:
         {
             int left_sum =0;
             int right_sum = 0;
-            for(int j =0;j<len;j++)
-            {
-                if(j<i)
+                for(int j =0; j<i;j++)
                 {
                     left_sum += nums[j];
                 }
-                else if(j>i)
+                for(int j =i+1;j<len ;j++)
                 {
                      right_sum += nums[j];
                 }  
-            }
             A[i] = abs(left_sum - right_sum);
         }
         return A;
