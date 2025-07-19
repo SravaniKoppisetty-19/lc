@@ -24,6 +24,7 @@
 | [1833-find-the-highest-altitude](https://github.com/SravaniKoppisetty-19/lc/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SravaniKoppisetty-19/lc/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/SravaniKoppisetty-19/lc/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -145,6 +146,7 @@
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2756-buy-two-chocolates](https://github.com/SravaniKoppisetty-19/lc/tree/master/2756-buy-two-chocolates) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
