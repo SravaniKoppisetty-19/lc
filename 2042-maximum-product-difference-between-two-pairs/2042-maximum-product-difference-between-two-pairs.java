@@ -1,18 +1,7 @@
 class Solution {
     public int maxProductDifference(int[] nums) {
         int length = nums.length;
-        for(int i =0;i<length;i++)
-        {
-            for(int j =0;j<length-1;j++)
-            {
-                if(nums[j] > nums[j+1])
-                {
-                    int temp = nums[j];
-                    nums[j] = nums[j+1];
-                    nums[j+1] = temp;
-                }
-            }
-        }
+        Arrays.sort(nums);
         int first_minimum = nums[0];
         int second_minimum = nums[1];
         int first_maximum = nums[length-1];
