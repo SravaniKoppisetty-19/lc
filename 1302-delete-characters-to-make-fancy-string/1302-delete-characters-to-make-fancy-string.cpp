@@ -1,6 +1,7 @@
 class Solution {
 public:
     string makeFancyString(string s) {
+        
         int len = s.size();
        int count = 1;
        string result = "";
@@ -17,7 +18,7 @@ public:
         }
        }
        result = s[0] + result;
-       return result;    
+       return result;  
 
     }
 };
