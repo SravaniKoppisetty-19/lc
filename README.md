@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/SravaniKoppisetty-19/lc/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SravaniKoppisetty-19/lc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
@@ -176,6 +177,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -200,6 +202,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0144-binary-tree-preorder-traversal) |
@@ -213,6 +216,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/SravaniKoppisetty-19/lc/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0783-search-in-a-binary-search-tree) |
@@ -223,6 +227,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0144-binary-tree-preorder-traversal) |
