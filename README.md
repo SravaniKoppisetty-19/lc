@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SravaniKoppisetty-19/lc/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/SravaniKoppisetty-19/lc/tree/master/0742-to-lower-case) |
@@ -178,6 +179,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0145-binary-tree-postorder-traversal) |
