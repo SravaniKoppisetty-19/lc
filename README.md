@@ -35,6 +35,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -131,6 +132,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SravaniKoppisetty-19/lc/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2128-reverse-prefix-of-word](https://github.com/SravaniKoppisetty-19/lc/tree/master/2128-reverse-prefix-of-word) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/SravaniKoppisetty-19/lc/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/3379-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3617-find-the-original-typed-string-i) |
@@ -326,4 +328,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0948-sort-an-array) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
