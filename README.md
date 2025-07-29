@@ -45,6 +45,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/SravaniKoppisetty-19/lc/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3194-find-words-containing-character](https://github.com/SravaniKoppisetty-19/lc/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/3226-minimum-number-game) |
@@ -138,6 +139,7 @@
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SravaniKoppisetty-19/lc/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2128-reverse-prefix-of-word](https://github.com/SravaniKoppisetty-19/lc/tree/master/2128-reverse-prefix-of-word) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/SravaniKoppisetty-19/lc/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/SravaniKoppisetty-19/lc/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/3379-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3617-find-the-original-typed-string-i) |
