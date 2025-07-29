@@ -44,6 +44,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3045-minimum-right-shifts-to-sort-the-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3194-find-words-containing-character](https://github.com/SravaniKoppisetty-19/lc/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
