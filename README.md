@@ -104,6 +104,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/SravaniKoppisetty-19/lc/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/1635-number-of-good-pairs) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/SravaniKoppisetty-19/lc/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/SravaniKoppisetty-19/lc/tree/master/2556-convert-the-temperature) |
@@ -132,6 +133,7 @@
 | [1205-defanging-an-ip-address](https://github.com/SravaniKoppisetty-19/lc/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SravaniKoppisetty-19/lc/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/SravaniKoppisetty-19/lc/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2128-reverse-prefix-of-word](https://github.com/SravaniKoppisetty-19/lc/tree/master/2128-reverse-prefix-of-word) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/SravaniKoppisetty-19/lc/tree/master/3194-find-words-containing-character) |
