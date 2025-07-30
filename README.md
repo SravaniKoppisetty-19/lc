@@ -39,6 +39,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SravaniKoppisetty-19/lc/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/SravaniKoppisetty-19/lc/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/SravaniKoppisetty-19/lc/tree/master/2756-buy-two-chocolates) |
@@ -189,6 +190,7 @@
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SravaniKoppisetty-19/lc/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
@@ -344,4 +346,8 @@
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2292-counting-words-with-a-given-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SravaniKoppisetty-19/lc/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
