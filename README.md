@@ -132,6 +132,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/SravaniKoppisetty-19/lc/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SravaniKoppisetty-19/lc/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0557-reverse-words-in-a-string-iii) |
