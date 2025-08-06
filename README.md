@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SravaniKoppisetty-19/lc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0948-sort-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SravaniKoppisetty-19/lc/tree/master/1319-unique-number-of-occurrences) |
@@ -88,6 +89,7 @@
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/SravaniKoppisetty-19/lc/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/SravaniKoppisetty-19/lc/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0940-fruit-into-baskets) |
@@ -112,6 +114,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SravaniKoppisetty-19/lc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SravaniKoppisetty-19/lc/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SravaniKoppisetty-19/lc/tree/master/0326-power-of-three) |
 | [0728-self-dividing-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0728-self-dividing-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -183,6 +186,7 @@
 | [0088-merge-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SravaniKoppisetty-19/lc/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -201,6 +205,7 @@
 | [0190-reverse-bits](https://github.com/SravaniKoppisetty-19/lc/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SravaniKoppisetty-19/lc/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
@@ -263,6 +268,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/SravaniKoppisetty-19/lc/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/SravaniKoppisetty-19/lc/tree/master/0975-range-sum-of-bst) |
