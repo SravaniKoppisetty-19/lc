@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SravaniKoppisetty-19/lc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0948-sort-an-array) |
@@ -232,6 +233,7 @@
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SravaniKoppisetty-19/lc/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SravaniKoppisetty-19/lc/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
@@ -273,6 +275,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/SravaniKoppisetty-19/lc/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0783-search-in-a-binary-search-tree) |
@@ -297,6 +300,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0240-search-a-2d-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/SravaniKoppisetty-19/lc/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/SravaniKoppisetty-19/lc/tree/master/3227-find-missing-and-repeated-values) |
