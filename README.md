@@ -43,6 +43,7 @@
 | [2058-concatenation-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2117-find-original-array-from-doubled-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -113,6 +114,7 @@
 | [1848-sum-of-unique-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SravaniKoppisetty-19/lc/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2117-find-original-array-from-doubled-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2117-find-original-array-from-doubled-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/SravaniKoppisetty-19/lc/tree/master/3227-find-missing-and-repeated-values) |
@@ -213,6 +215,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2117-find-original-array-from-doubled-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2728-sum-in-a-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/SravaniKoppisetty-19/lc/tree/master/2756-buy-two-chocolates) |
@@ -379,6 +382,7 @@
 |  |
 | ------- |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2117-find-original-array-from-doubled-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2756-buy-two-chocolates](https://github.com/SravaniKoppisetty-19/lc/tree/master/2756-buy-two-chocolates) |
 ## Sliding Window
