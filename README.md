@@ -128,6 +128,7 @@
 | [0013-roman-to-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SravaniKoppisetty-19/lc/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SravaniKoppisetty-19/lc/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SravaniKoppisetty-19/lc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SravaniKoppisetty-19/lc/tree/master/0231-power-of-two) |
@@ -427,9 +428,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SravaniKoppisetty-19/lc/tree/master/0118-pascals-triangle) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
