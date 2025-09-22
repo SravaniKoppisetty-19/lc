@@ -33,6 +33,7 @@
 | [1656-count-good-triplets](https://github.com/SravaniKoppisetty-19/lc/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SravaniKoppisetty-19/lc/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/SravaniKoppisetty-19/lc/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/SravaniKoppisetty-19/lc/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/SravaniKoppisetty-19/lc/tree/master/1833-find-the-highest-altitude) |
@@ -114,6 +115,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/SravaniKoppisetty-19/lc/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/SravaniKoppisetty-19/lc/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SravaniKoppisetty-19/lc/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -188,6 +190,7 @@
 | [1205-defanging-an-ip-address](https://github.com/SravaniKoppisetty-19/lc/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SravaniKoppisetty-19/lc/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SravaniKoppisetty-19/lc/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SravaniKoppisetty-19/lc/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1954-replace-all-digits-with-characters](https://github.com/SravaniKoppisetty-19/lc/tree/master/1954-replace-all-digits-with-characters) |
@@ -255,6 +258,7 @@
 | [0342-power-of-four](https://github.com/SravaniKoppisetty-19/lc/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SravaniKoppisetty-19/lc/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -283,6 +287,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SravaniKoppisetty-19/lc/tree/master/2190-count-common-words-with-one-occurrence) |
