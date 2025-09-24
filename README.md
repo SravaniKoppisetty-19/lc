@@ -76,6 +76,7 @@
 | [3515-find-if-digit-game-can-be-won](https://github.com/SravaniKoppisetty-19/lc/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SravaniKoppisetty-19/lc/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3778-transform-array-by-parity](https://github.com/SravaniKoppisetty-19/lc/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SravaniKoppisetty-19/lc/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -367,6 +368,7 @@
 | [1791-richest-customer-wealth](https://github.com/SravaniKoppisetty-19/lc/tree/master/1791-richest-customer-wealth) |
 | [2728-sum-in-a-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2728-sum-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/SravaniKoppisetty-19/lc/tree/master/3227-find-missing-and-repeated-values) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -428,6 +430,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2756-buy-two-chocolates](https://github.com/SravaniKoppisetty-19/lc/tree/master/2756-buy-two-chocolates) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Sliding Window
 |  |
 | ------- |
