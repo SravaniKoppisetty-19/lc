@@ -167,6 +167,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SravaniKoppisetty-19/lc/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/SravaniKoppisetty-19/lc/tree/master/3227-find-missing-and-repeated-values) |
+| [3336-water-bottles-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/3336-water-bottles-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SravaniKoppisetty-19/lc/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SravaniKoppisetty-19/lc/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SravaniKoppisetty-19/lc/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -311,6 +312,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/2288-count-operations-to-obtain-zero) |
 | [2728-sum-in-a-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/3226-minimum-number-game) |
+| [3336-water-bottles-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/3811-reverse-degree-of-a-string) |
 ## Tree
