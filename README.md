@@ -21,6 +21,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0628-maximum-product-of-three-numbers) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/SravaniKoppisetty-19/lc/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0940-fruit-into-baskets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0948-sort-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SravaniKoppisetty-19/lc/tree/master/1319-unique-number-of-occurrences) |
