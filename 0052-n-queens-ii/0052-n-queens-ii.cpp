@@ -45,7 +45,7 @@ public:
         }
     }
     int totalNQueens(int n) {
-        count =0;
+        //count =0;
         board = vector<string>(n, string(n, '.'));
         solve(0,n);
         return count;
