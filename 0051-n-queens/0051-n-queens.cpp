@@ -46,7 +46,7 @@ public:
         }
     }
     vector<vector<string>> solveNQueens(int n) {
-        //ans.clear();
+        ans.clear();
         board = vector<string>(n, string(n, '.'));
         solve(0,n);
         return ans;
