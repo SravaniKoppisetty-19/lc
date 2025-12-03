@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0027-remove-element) |
+| [0051-n-queens](https://github.com/SravaniKoppisetty-19/lc/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/SravaniKoppisetty-19/lc/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0088-merge-sorted-array) |
@@ -481,4 +482,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SravaniKoppisetty-19/lc/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
