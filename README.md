@@ -26,6 +26,7 @@
 | [0940-fruit-into-baskets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0948-sort-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SravaniKoppisetty-19/lc/tree/master/1319-unique-number-of-occurrences) |
+| [1389-create-target-array-in-the-given-order](https://github.com/SravaniKoppisetty-19/lc/tree/master/1389-create-target-array-in-the-given-order) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SravaniKoppisetty-19/lc/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -324,6 +325,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SravaniKoppisetty-19/lc/tree/master/0067-add-binary) |
+| [1389-create-target-array-in-the-given-order](https://github.com/SravaniKoppisetty-19/lc/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/SravaniKoppisetty-19/lc/tree/master/1642-water-bottles) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SravaniKoppisetty-19/lc/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/SravaniKoppisetty-19/lc/tree/master/2048-build-array-from-permutation) |
