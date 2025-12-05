@@ -84,6 +84,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/SravaniKoppisetty-19/lc/tree/master/3668-restore-finishing-order) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3701-compute-alternating-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/3701-compute-alternating-sum) |
 | [3778-transform-array-by-parity](https://github.com/SravaniKoppisetty-19/lc/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SravaniKoppisetty-19/lc/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -327,6 +328,7 @@
 | [3226-minimum-number-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3701-compute-alternating-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/3701-compute-alternating-sum) |
 | [3811-reverse-degree-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/3811-reverse-degree-of-a-string) |
 ## Tree
 |  |
