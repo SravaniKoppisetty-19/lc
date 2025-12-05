@@ -49,6 +49,7 @@
 | [2048-build-array-from-permutation](https://github.com/SravaniKoppisetty-19/lc/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2102-find-the-middle-index-in-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SravaniKoppisetty-19/lc/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -212,6 +213,7 @@
 | [1954-replace-all-digits-with-characters](https://github.com/SravaniKoppisetty-19/lc/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SravaniKoppisetty-19/lc/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SravaniKoppisetty-19/lc/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SravaniKoppisetty-19/lc/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2128-reverse-prefix-of-word](https://github.com/SravaniKoppisetty-19/lc/tree/master/2128-reverse-prefix-of-word) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SravaniKoppisetty-19/lc/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2231-find-first-palindromic-string-in-the-array) |
