@@ -74,6 +74,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/SravaniKoppisetty-19/lc/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SravaniKoppisetty-19/lc/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/SravaniKoppisetty-19/lc/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3285-find-indices-of-stable-mountains](https://github.com/SravaniKoppisetty-19/lc/tree/master/3285-find-indices-of-stable-mountains) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3429-special-array-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/3432-count-partitions-with-even-sum-difference) |
