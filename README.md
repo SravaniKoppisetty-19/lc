@@ -67,6 +67,7 @@
 | [2728-sum-in-a-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/SravaniKoppisetty-19/lc/tree/master/2756-buy-two-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SravaniKoppisetty-19/lc/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/SravaniKoppisetty-19/lc/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -287,6 +288,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SravaniKoppisetty-19/lc/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SravaniKoppisetty-19/lc/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
