@@ -60,6 +60,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
+| [2418-sort-the-people](https://github.com/SravaniKoppisetty-19/lc/tree/master/2418-sort-the-people) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SravaniKoppisetty-19/lc/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -139,6 +140,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2117-find-original-array-from-doubled-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SravaniKoppisetty-19/lc/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
+| [2418-sort-the-people](https://github.com/SravaniKoppisetty-19/lc/tree/master/2418-sort-the-people) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/SravaniKoppisetty-19/lc/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SravaniKoppisetty-19/lc/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -224,6 +226,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/SravaniKoppisetty-19/lc/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2418-sort-the-people](https://github.com/SravaniKoppisetty-19/lc/tree/master/2418-sort-the-people) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/SravaniKoppisetty-19/lc/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/SravaniKoppisetty-19/lc/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/3379-score-of-a-string) |
@@ -266,6 +269,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2418-sort-the-people](https://github.com/SravaniKoppisetty-19/lc/tree/master/2418-sort-the-people) |
 | [2728-sum-in-a-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/SravaniKoppisetty-19/lc/tree/master/2756-buy-two-chocolates) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
