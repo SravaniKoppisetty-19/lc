@@ -91,6 +91,7 @@
 | [3668-restore-finishing-order](https://github.com/SravaniKoppisetty-19/lc/tree/master/3668-restore-finishing-order) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3701-compute-alternating-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/SravaniKoppisetty-19/lc/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SravaniKoppisetty-19/lc/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -148,6 +149,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SravaniKoppisetty-19/lc/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/SravaniKoppisetty-19/lc/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SravaniKoppisetty-19/lc/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -275,6 +277,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3731-find-missing-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/SravaniKoppisetty-19/lc/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
