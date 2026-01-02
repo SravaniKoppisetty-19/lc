@@ -25,6 +25,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/SravaniKoppisetty-19/lc/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0940-fruit-into-baskets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0948-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SravaniKoppisetty-19/lc/tree/master/1319-unique-number-of-occurrences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SravaniKoppisetty-19/lc/tree/master/1389-create-target-array-in-the-given-order) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -131,6 +132,7 @@
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/SravaniKoppisetty-19/lc/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SravaniKoppisetty-19/lc/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/SravaniKoppisetty-19/lc/tree/master/1500-count-largest-group) |
