@@ -528,4 +528,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SravaniKoppisetty-19/lc/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Database
+|  |
+| ------- |
+| [1965-employees-with-missing-information](https://github.com/SravaniKoppisetty-19/lc/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
