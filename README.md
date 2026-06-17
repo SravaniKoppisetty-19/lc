@@ -98,6 +98,7 @@
 | [3778-transform-array-by-parity](https://github.com/SravaniKoppisetty-19/lc/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SravaniKoppisetty-19/lc/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SravaniKoppisetty-19/lc/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -413,6 +414,7 @@
 | [2728-sum-in-a-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2728-sum-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/SravaniKoppisetty-19/lc/tree/master/3227-find-missing-and-repeated-values) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SravaniKoppisetty-19/lc/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -532,4 +534,8 @@
 |  |
 | ------- |
 | [1965-employees-with-missing-information](https://github.com/SravaniKoppisetty-19/lc/tree/master/1965-employees-with-missing-information) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SravaniKoppisetty-19/lc/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
