@@ -99,6 +99,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SravaniKoppisetty-19/lc/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SravaniKoppisetty-19/lc/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/SravaniKoppisetty-19/lc/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -356,6 +357,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3701-compute-alternating-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/3701-compute-alternating-sum) |
 | [3811-reverse-degree-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/3811-reverse-degree-of-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/SravaniKoppisetty-19/lc/tree/master/3925-concatenate-array-with-reverse) |
 ## Tree
 |  |
 | ------- |
