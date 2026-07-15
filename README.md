@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SravaniKoppisetty-19/lc/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0845-longest-mountain-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0845-longest-mountain-in-array) |
 | [0940-fruit-into-baskets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -114,6 +115,7 @@
 | [0165-compare-version-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0845-longest-mountain-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0845-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/SravaniKoppisetty-19/lc/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/SravaniKoppisetty-19/lc/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -463,6 +465,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0845-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/SravaniKoppisetty-19/lc/tree/master/1656-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/SravaniKoppisetty-19/lc/tree/master/1925-count-square-sum-triples) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
@@ -515,6 +518,7 @@
 | [0070-climbing-stairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SravaniKoppisetty-19/lc/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/SravaniKoppisetty-19/lc/tree/master/0338-counting-bits) |
+| [0845-longest-mountain-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0845-longest-mountain-in-array) |
 ## Trie
 |  |
 | ------- |
