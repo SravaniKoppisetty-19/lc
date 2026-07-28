@@ -99,6 +99,7 @@
 | [3731-find-missing-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/SravaniKoppisetty-19/lc/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3866-first-unique-even-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/3866-first-unique-even-element) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SravaniKoppisetty-19/lc/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SravaniKoppisetty-19/lc/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/SravaniKoppisetty-19/lc/tree/master/3925-concatenate-array-with-reverse) |
@@ -159,6 +160,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SravaniKoppisetty-19/lc/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/SravaniKoppisetty-19/lc/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SravaniKoppisetty-19/lc/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -345,6 +347,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SravaniKoppisetty-19/lc/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/SravaniKoppisetty-19/lc/tree/master/3778-transform-array-by-parity) |
+| [3866-first-unique-even-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SravaniKoppisetty-19/lc/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
