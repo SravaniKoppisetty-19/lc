@@ -244,6 +244,7 @@
 | [3194-find-words-containing-character](https://github.com/SravaniKoppisetty-19/lc/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/3412-permutation-difference-between-two-strings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3617-find-the-original-typed-string-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SravaniKoppisetty-19/lc/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -288,6 +289,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/SravaniKoppisetty-19/lc/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
@@ -437,6 +439,7 @@
 | [0948-sort-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Depth-First Search
 |  |
 | ------- |
