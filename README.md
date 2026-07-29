@@ -135,6 +135,7 @@
 | [0217-contains-duplicate](https://github.com/SravaniKoppisetty-19/lc/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SravaniKoppisetty-19/lc/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/SravaniKoppisetty-19/lc/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0940-fruit-into-baskets) |
@@ -220,6 +221,7 @@
 | [0125-valid-palindrome](https://github.com/SravaniKoppisetty-19/lc/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/SravaniKoppisetty-19/lc/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/SravaniKoppisetty-19/lc/tree/master/0742-to-lower-case) |
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/1848-sum-of-unique-elements) |
@@ -552,4 +555,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SravaniKoppisetty-19/lc/tree/master/3898-find-the-degree-of-each-vertex) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
