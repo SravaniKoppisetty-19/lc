@@ -184,6 +184,7 @@
 | [0342-power-of-four](https://github.com/SravaniKoppisetty-19/lc/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0728-self-dividing-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -230,6 +231,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/SravaniKoppisetty-19/lc/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/SravaniKoppisetty-19/lc/tree/master/0782-jewels-and-stones) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/SravaniKoppisetty-19/lc/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -565,4 +567,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/0387-first-unique-character-in-a-string) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
