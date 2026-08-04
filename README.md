@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/SravaniKoppisetty-19/lc/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
+| [0605-can-place-flowers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SravaniKoppisetty-19/lc/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0845-longest-mountain-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0845-longest-mountain-in-array) |
@@ -499,6 +500,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SravaniKoppisetty-19/lc/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0605-can-place-flowers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
