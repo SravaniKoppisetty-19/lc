@@ -121,6 +121,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/SravaniKoppisetty-19/lc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0845-longest-mountain-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0845-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/SravaniKoppisetty-19/lc/tree/master/0908-middle-of-the-linked-list) |
@@ -227,6 +228,7 @@
 | [0125-valid-palindrome](https://github.com/SravaniKoppisetty-19/lc/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/SravaniKoppisetty-19/lc/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0557-reverse-words-in-a-string-iii) |
