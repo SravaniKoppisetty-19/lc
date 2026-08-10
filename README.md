@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/SravaniKoppisetty-19/lc/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SravaniKoppisetty-19/lc/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0088-merge-sorted-array) |
@@ -368,6 +369,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/SravaniKoppisetty-19/lc/tree/master/0067-add-binary) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SravaniKoppisetty-19/lc/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/SravaniKoppisetty-19/lc/tree/master/1642-water-bottles) |
@@ -433,6 +435,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0240-search-a-2d-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/1677-matrix-diagonal-sum) |
