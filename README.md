@@ -181,6 +181,7 @@
 | [0013-roman-to-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SravaniKoppisetty-19/lc/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SravaniKoppisetty-19/lc/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/SravaniKoppisetty-19/lc/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SravaniKoppisetty-19/lc/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0202-happy-number) |
@@ -407,6 +408,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SravaniKoppisetty-19/lc/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0222-count-complete-tree-nodes) |
@@ -587,4 +589,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1071-greatest-common-divisor-of-strings) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SravaniKoppisetty-19/lc/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
