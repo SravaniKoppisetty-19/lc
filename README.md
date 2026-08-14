@@ -192,6 +192,7 @@
 | [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SravaniKoppisetty-19/lc/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SravaniKoppisetty-19/lc/tree/master/0342-power-of-four) |
+| [0372-super-pow](https://github.com/SravaniKoppisetty-19/lc/tree/master/0372-super-pow) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0728-self-dividing-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -355,6 +356,7 @@
 | [0190-reverse-bits](https://github.com/SravaniKoppisetty-19/lc/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SravaniKoppisetty-19/lc/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0240-search-a-2d-matrix-ii) |
+| [0372-super-pow](https://github.com/SravaniKoppisetty-19/lc/tree/master/0372-super-pow) |
 | [0948-sort-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
@@ -611,4 +613,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/SravaniKoppisetty-19/lc/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/SravaniKoppisetty-19/lc/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
