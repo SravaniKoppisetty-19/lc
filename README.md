@@ -57,6 +57,7 @@
 | [1848-sum-of-unique-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SravaniKoppisetty-19/lc/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SravaniKoppisetty-19/lc/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/SravaniKoppisetty-19/lc/tree/master/2048-build-array-from-permutation) |
@@ -205,6 +206,7 @@
 | [1642-water-bottles](https://github.com/SravaniKoppisetty-19/lc/tree/master/1642-water-bottles) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SravaniKoppisetty-19/lc/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/SravaniKoppisetty-19/lc/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/SravaniKoppisetty-19/lc/tree/master/2556-convert-the-temperature) |
@@ -514,6 +516,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SravaniKoppisetty-19/lc/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Greedy
@@ -593,10 +596,12 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Newton's Method
 |  |
 | ------- |
