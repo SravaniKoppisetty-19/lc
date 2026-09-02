@@ -109,6 +109,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/3866-first-unique-even-element) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SravaniKoppisetty-19/lc/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SravaniKoppisetty-19/lc/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/SravaniKoppisetty-19/lc/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -227,6 +228,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SravaniKoppisetty-19/lc/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SravaniKoppisetty-19/lc/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
