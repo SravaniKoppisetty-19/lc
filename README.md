@@ -211,6 +211,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
 | [2556-convert-the-temperature](https://github.com/SravaniKoppisetty-19/lc/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -523,6 +524,7 @@
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SravaniKoppisetty-19/lc/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Greedy
 |  |
@@ -615,14 +617,17 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
 ## Euler's Totient Function
 |  |
 | ------- |
