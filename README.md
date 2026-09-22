@@ -636,4 +636,8 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/SravaniKoppisetty-19/lc/tree/master/0372-super-pow) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SravaniKoppisetty-19/lc/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
