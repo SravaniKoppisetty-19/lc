@@ -60,6 +60,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SravaniKoppisetty-19/lc/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SravaniKoppisetty-19/lc/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/SravaniKoppisetty-19/lc/tree/master/2048-build-array-from-permutation) |
@@ -215,6 +216,7 @@
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SravaniKoppisetty-19/lc/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/SravaniKoppisetty-19/lc/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
@@ -321,6 +323,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/SravaniKoppisetty-19/lc/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SravaniKoppisetty-19/lc/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -536,6 +539,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SravaniKoppisetty-19/lc/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -621,12 +625,14 @@
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SravaniKoppisetty-19/lc/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SravaniKoppisetty-19/lc/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Newton's Method
 |  |
@@ -664,4 +670,12 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0241-different-ways-to-add-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
 <!---LeetCode Topics End-->
