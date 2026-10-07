@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SravaniKoppisetty-19/lc/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SravaniKoppisetty-19/lc/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -361,6 +362,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SravaniKoppisetty-19/lc/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/SravaniKoppisetty-19/lc/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SravaniKoppisetty-19/lc/tree/master/0191-number-of-1-bits) |
@@ -644,6 +646,7 @@
 | [0051-n-queens](https://github.com/SravaniKoppisetty-19/lc/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/SravaniKoppisetty-19/lc/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SravaniKoppisetty-19/lc/tree/master/0079-word-search) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Monotonic Stack
