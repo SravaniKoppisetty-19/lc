@@ -90,6 +90,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SravaniKoppisetty-19/lc/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/SravaniKoppisetty-19/lc/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
+| [3115-maximum-prime-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/3115-maximum-prime-difference) |
 | [3194-find-words-containing-character](https://github.com/SravaniKoppisetty-19/lc/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/SravaniKoppisetty-19/lc/tree/master/3227-find-missing-and-repeated-values) |
@@ -229,6 +230,7 @@
 | [2752-sum-multiples](https://github.com/SravaniKoppisetty-19/lc/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SravaniKoppisetty-19/lc/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3115-maximum-prime-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/3115-maximum-prime-difference) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/SravaniKoppisetty-19/lc/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/3336-water-bottles-ii) |
@@ -546,6 +548,7 @@
 | [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SravaniKoppisetty-19/lc/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SravaniKoppisetty-19/lc/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3115-maximum-prime-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/3115-maximum-prime-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -646,6 +649,7 @@
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/SravaniKoppisetty-19/lc/tree/master/0866-prime-palindrome) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
+| [3115-maximum-prime-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/3115-maximum-prime-difference) |
 ## Sieve Theory
 |  |
 | ------- |
