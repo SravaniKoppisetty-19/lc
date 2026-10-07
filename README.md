@@ -79,6 +79,7 @@
 | [2418-sort-the-people](https://github.com/SravaniKoppisetty-19/lc/tree/master/2418-sort-the-people) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SravaniKoppisetty-19/lc/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/SravaniKoppisetty-19/lc/tree/master/2614-prime-in-diagonal) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SravaniKoppisetty-19/lc/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -174,6 +175,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/SravaniKoppisetty-19/lc/tree/master/2418-sort-the-people) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/SravaniKoppisetty-19/lc/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SravaniKoppisetty-19/lc/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/3412-permutation-difference-between-two-strings) |
@@ -222,6 +224,7 @@
 | [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
 | [2556-convert-the-temperature](https://github.com/SravaniKoppisetty-19/lc/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/2571-find-the-pivot-integer) |
@@ -548,6 +551,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/SravaniKoppisetty-19/lc/tree/master/2614-prime-in-diagonal) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SravaniKoppisetty-19/lc/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -635,6 +639,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SravaniKoppisetty-19/lc/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greatest Common Divisor
 |  |
@@ -642,6 +647,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SravaniKoppisetty-19/lc/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Newton's Method
 |  |
@@ -652,17 +658,20 @@
 | ------- |
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/SravaniKoppisetty-19/lc/tree/master/0866-prime-palindrome) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
 | [3115-maximum-prime-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/3115-maximum-prime-difference) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
 ## Euler's Totient Function
 |  |
@@ -689,4 +698,5 @@
 |  |
 | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
