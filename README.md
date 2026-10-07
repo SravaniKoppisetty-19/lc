@@ -367,6 +367,7 @@
 | [1720-decode-xored-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1720-decode-xored-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SravaniKoppisetty-19/lc/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
