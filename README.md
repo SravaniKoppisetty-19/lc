@@ -274,6 +274,7 @@
 | [0067-add-binary](https://github.com/SravaniKoppisetty-19/lc/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/SravaniKoppisetty-19/lc/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SravaniKoppisetty-19/lc/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/SravaniKoppisetty-19/lc/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0165-compare-version-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/SravaniKoppisetty-19/lc/tree/master/0242-valid-anagram) |
@@ -629,6 +630,7 @@
 | [0022-generate-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SravaniKoppisetty-19/lc/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/SravaniKoppisetty-19/lc/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/SravaniKoppisetty-19/lc/tree/master/0338-counting-bits) |
 | [0845-longest-mountain-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0845-longest-mountain-in-array) |
@@ -653,6 +655,7 @@
 | [0077-combinations](https://github.com/SravaniKoppisetty-19/lc/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SravaniKoppisetty-19/lc/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SravaniKoppisetty-19/lc/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/SravaniKoppisetty-19/lc/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Monotonic Stack
 |  |
