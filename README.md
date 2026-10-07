@@ -54,6 +54,7 @@
 | [1791-richest-customer-wealth](https://github.com/SravaniKoppisetty-19/lc/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/SravaniKoppisetty-19/lc/tree/master/1813-maximum-erasure-value) |
 | [1816-truncate-sentence](https://github.com/SravaniKoppisetty-19/lc/tree/master/1816-truncate-sentence) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-find-the-highest-altitude](https://github.com/SravaniKoppisetty-19/lc/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SravaniKoppisetty-19/lc/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -208,6 +209,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/SravaniKoppisetty-19/lc/tree/master/1642-water-bottles) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SravaniKoppisetty-19/lc/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/SravaniKoppisetty-19/lc/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -295,6 +297,7 @@
 | [0231-power-of-two](https://github.com/SravaniKoppisetty-19/lc/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SravaniKoppisetty-19/lc/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SravaniKoppisetty-19/lc/tree/master/0342-power-of-four) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
@@ -392,6 +395,7 @@
 | [0867-transpose-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SravaniKoppisetty-19/lc/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/SravaniKoppisetty-19/lc/tree/master/1642-water-bottles) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SravaniKoppisetty-19/lc/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/SravaniKoppisetty-19/lc/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2058-concatenation-of-array) |
@@ -603,6 +607,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Euclidean Algorithm
 |  |
 | ------- |
