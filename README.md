@@ -99,6 +99,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SravaniKoppisetty-19/lc/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/3483-unique-3-digit-even-numbers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SravaniKoppisetty-19/lc/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SravaniKoppisetty-19/lc/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -172,6 +173,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/SravaniKoppisetty-19/lc/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/3483-unique-3-digit-even-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SravaniKoppisetty-19/lc/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/SravaniKoppisetty-19/lc/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/3731-find-missing-elements) |
@@ -293,6 +295,7 @@
 | [0231-power-of-two](https://github.com/SravaniKoppisetty-19/lc/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SravaniKoppisetty-19/lc/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SravaniKoppisetty-19/lc/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SravaniKoppisetty-19/lc/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
@@ -518,6 +521,7 @@
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
