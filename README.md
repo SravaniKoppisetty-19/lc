@@ -639,6 +639,7 @@
 | [0046-permutations](https://github.com/SravaniKoppisetty-19/lc/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SravaniKoppisetty-19/lc/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/SravaniKoppisetty-19/lc/tree/master/0077-combinations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Monotonic Stack
 |  |
