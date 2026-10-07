@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SravaniKoppisetty-19/lc/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SravaniKoppisetty-19/lc/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SravaniKoppisetty-19/lc/tree/master/0118-pascals-triangle) |
@@ -267,6 +268,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SravaniKoppisetty-19/lc/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SravaniKoppisetty-19/lc/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/SravaniKoppisetty-19/lc/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SravaniKoppisetty-19/lc/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0165-compare-version-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0241-different-ways-to-add-parentheses) |
@@ -494,6 +496,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SravaniKoppisetty-19/lc/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/SravaniKoppisetty-19/lc/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/SravaniKoppisetty-19/lc/tree/master/0498-diagonal-traverse) |
@@ -527,6 +530,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SravaniKoppisetty-19/lc/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SravaniKoppisetty-19/lc/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SravaniKoppisetty-19/lc/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -640,6 +644,7 @@
 | [0051-n-queens](https://github.com/SravaniKoppisetty-19/lc/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/SravaniKoppisetty-19/lc/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/SravaniKoppisetty-19/lc/tree/master/0079-word-search) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Monotonic Stack
 |  |
