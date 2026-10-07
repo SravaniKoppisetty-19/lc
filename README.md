@@ -195,6 +195,7 @@
 | [0202-happy-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SravaniKoppisetty-19/lc/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SravaniKoppisetty-19/lc/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SravaniKoppisetty-19/lc/tree/master/0342-power-of-four) |
@@ -246,6 +247,7 @@
 | [0067-add-binary](https://github.com/SravaniKoppisetty-19/lc/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SravaniKoppisetty-19/lc/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/0165-compare-version-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/SravaniKoppisetty-19/lc/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SravaniKoppisetty-19/lc/tree/master/0387-first-unique-character-in-a-string) |
@@ -295,6 +297,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SravaniKoppisetty-19/lc/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/SravaniKoppisetty-19/lc/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/SravaniKoppisetty-19/lc/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SravaniKoppisetty-19/lc/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -576,6 +579,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SravaniKoppisetty-19/lc/tree/master/0118-pascals-triangle) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/SravaniKoppisetty-19/lc/tree/master/0338-counting-bits) |
 | [0845-longest-mountain-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0845-longest-mountain-in-array) |
 ## Trie
@@ -586,6 +590,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0241-different-ways-to-add-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -650,4 +655,8 @@
 | ------- |
 | [0051-n-queens](https://github.com/SravaniKoppisetty-19/lc/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0052-n-queens-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SravaniKoppisetty-19/lc/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
