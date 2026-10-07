@@ -79,6 +79,7 @@
 | [2418-sort-the-people](https://github.com/SravaniKoppisetty-19/lc/tree/master/2418-sort-the-people) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SravaniKoppisetty-19/lc/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2614-prime-in-diagonal](https://github.com/SravaniKoppisetty-19/lc/tree/master/2614-prime-in-diagonal) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SravaniKoppisetty-19/lc/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2714-left-and-right-sum-differences](https://github.com/SravaniKoppisetty-19/lc/tree/master/2714-left-and-right-sum-differences) |
@@ -225,6 +226,7 @@
 | [2556-convert-the-temperature](https://github.com/SravaniKoppisetty-19/lc/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/SravaniKoppisetty-19/lc/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/SravaniKoppisetty-19/lc/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2614-prime-in-diagonal](https://github.com/SravaniKoppisetty-19/lc/tree/master/2614-prime-in-diagonal) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SravaniKoppisetty-19/lc/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2752-sum-multiples](https://github.com/SravaniKoppisetty-19/lc/tree/master/2752-sum-multiples) |
@@ -477,6 +479,7 @@
 | [0867-transpose-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0867-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/SravaniKoppisetty-19/lc/tree/master/1791-richest-customer-wealth) |
+| [2614-prime-in-diagonal](https://github.com/SravaniKoppisetty-19/lc/tree/master/2614-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2728-sum-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/SravaniKoppisetty-19/lc/tree/master/3227-find-missing-and-repeated-values) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -546,6 +549,7 @@
 | [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/SravaniKoppisetty-19/lc/tree/master/2523-closest-prime-numbers-in-range) |
+| [2614-prime-in-diagonal](https://github.com/SravaniKoppisetty-19/lc/tree/master/2614-prime-in-diagonal) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SravaniKoppisetty-19/lc/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SravaniKoppisetty-19/lc/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/3115-maximum-prime-difference) |
