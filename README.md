@@ -57,6 +57,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-find-the-highest-altitude](https://github.com/SravaniKoppisetty-19/lc/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/1848-sum-of-unique-elements) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SravaniKoppisetty-19/lc/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -218,6 +219,7 @@
 | [1635-number-of-good-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/SravaniKoppisetty-19/lc/tree/master/1642-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SravaniKoppisetty-19/lc/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1922-count-good-numbers](https://github.com/SravaniKoppisetty-19/lc/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/SravaniKoppisetty-19/lc/tree/master/1925-count-square-sum-triples) |
@@ -362,6 +364,7 @@
 | [0389-find-the-difference](https://github.com/SravaniKoppisetty-19/lc/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SravaniKoppisetty-19/lc/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SravaniKoppisetty-19/lc/tree/master/2308-divide-array-into-equal-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SravaniKoppisetty-19/lc/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -540,6 +543,7 @@
 | [0204-count-primes](https://github.com/SravaniKoppisetty-19/lc/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0845-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/SravaniKoppisetty-19/lc/tree/master/1656-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/SravaniKoppisetty-19/lc/tree/master/1925-count-square-sum-triples) |
 | [2507-number-of-common-factors](https://github.com/SravaniKoppisetty-19/lc/tree/master/2507-number-of-common-factors) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SravaniKoppisetty-19/lc/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -618,6 +622,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/SravaniKoppisetty-19/lc/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0052-n-queens-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -701,4 +706,8 @@
 | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
