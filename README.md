@@ -61,6 +61,7 @@
 | [1848-sum-of-unique-elements](https://github.com/SravaniKoppisetty-19/lc/tree/master/1848-sum-of-unique-elements) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SravaniKoppisetty-19/lc/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/SravaniKoppisetty-19/lc/tree/master/1914-cyclically-rotating-a-grid) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SravaniKoppisetty-19/lc/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/1998-gcd-sort-of-an-array) |
@@ -425,6 +426,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/SravaniKoppisetty-19/lc/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/SravaniKoppisetty-19/lc/tree/master/1642-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniKoppisetty-19/lc/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1914-cyclically-rotating-a-grid](https://github.com/SravaniKoppisetty-19/lc/tree/master/1914-cyclically-rotating-a-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SravaniKoppisetty-19/lc/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/SravaniKoppisetty-19/lc/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/2058-concatenation-of-array) |
@@ -496,6 +498,7 @@
 | [0867-transpose-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0867-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/SravaniKoppisetty-19/lc/tree/master/1791-richest-customer-wealth) |
+| [1914-cyclically-rotating-a-grid](https://github.com/SravaniKoppisetty-19/lc/tree/master/1914-cyclically-rotating-a-grid) |
 | [2614-prime-in-diagonal](https://github.com/SravaniKoppisetty-19/lc/tree/master/2614-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/2728-sum-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/SravaniKoppisetty-19/lc/tree/master/3227-find-missing-and-repeated-values) |
