@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/SravaniKoppisetty-19/lc/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SravaniKoppisetty-19/lc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SravaniKoppisetty-19/lc/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/SravaniKoppisetty-19/lc/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SravaniKoppisetty-19/lc/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/SravaniKoppisetty-19/lc/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SravaniKoppisetty-19/lc/tree/master/0066-plus-one) |
@@ -632,6 +633,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SravaniKoppisetty-19/lc/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SravaniKoppisetty-19/lc/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SravaniKoppisetty-19/lc/tree/master/0052-n-queens-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SravaniKoppisetty-19/lc/tree/master/1863-sum-of-all-subset-xor-totals) |
